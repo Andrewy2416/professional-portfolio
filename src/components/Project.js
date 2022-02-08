@@ -48,7 +48,7 @@ function Project(props) {
                         className="card-footer-item"
                         target="_blank" rel="noreferrer"
                       >
-                        See the Live Site!
+                        Live Application
                       </a>
                     </footer>
                   </div>

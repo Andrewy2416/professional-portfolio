@@ -3,15 +3,16 @@ import React from "react";
 function About() {
   return (
     <div>
-      <p className="content is-medium">Full Stack Developer</p>
+      <p className="content is-size-1 has-text-weight-bold">Full Stack Web Developer</p>
       <hr />
       <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profile.jpg'} alt="Andrew Yun"/>
-      <p className="content is-italic mt-4">
-        My name is Andrew and I am a Full Stack Developer.
+      <p className="content is-italic has-text-weight-bold is-underlined mt-4">
+        Full Stack Web Developer / Fantasy Football Champion
       </p>
       <p className="content">
-        I am a developer with a background in e-commerce business. I hope to combine both skills to provide insight and quality
-        work for my clients.
+        My name is Andrew Yun and I am a recent graduate of the UC Berkeley Coding Boot Camp. Based in the Bay Area, 
+        I am a hard-working Web Developer who is passionate about learning, researching, and writing code. I am excited to
+        take my programming skills and experience to a company where I can learn and grow.
       </p>
     </div>
   );

@@ -5,10 +5,10 @@ const projects = [
   {
     id: 0,
     title: "Money/Budget Organizer",
-    languages: "PWA, JS",
+    languages: "pwa, js",
     packages: "Node, Express, Mongoose",
     image: "/img/moneyorganizer.jpg",
-    description: "App that allows you to track your budget that van also be used offline as an app.",
+    description: "App that allows you to track your budget that can also be used offline as an app.",
     repo: "https://github.com/Andrewy2416/moneyorganizer",
     live: "https://stormy-peak-38446.herokuapp.com/",
   },
@@ -55,7 +55,7 @@ const projects = [
   {
     id: 5,
     title: "Note Taker",
-    languages: "html, CSS, js",
+    languages: "html, css, js",
     packages: "node, expressjs",
     image: "/img/notetaker.jpg",
     description: "A basic work portfolio that holds my projects for the full stack development class.",

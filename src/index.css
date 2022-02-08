@@ -32,7 +32,7 @@ main {
 }
 
 .my-pic {
-	clip-path: circle();
+	clip-path: ellipse(50px 60px at 0 10% 20%);
   width: 250px;
 }
 
@@ -41,5 +41,6 @@ main {
 }
 
 footer.footer {
-  background-color: lightgray;
+  background-color: gray;
 }
+

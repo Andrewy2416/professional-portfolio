@@ -35,7 +35,7 @@ function Header() {
             target="_blank"
             href="https://github.com/Andrewy2416?tab=repositories"
           >
-            <span className="content is-large">Andrew Yun</span>
+            <span className="content is-size-1 has-text-black">Andrew Yun</span>
           </a>
         </div>
       </nav>
