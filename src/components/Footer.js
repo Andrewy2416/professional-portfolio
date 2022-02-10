@@ -20,6 +20,10 @@ function Footer() {
           |{" "}{" "}
           <a href="youtube.com/channel/Andrewy2416" target="_blank" rel="noreferrer">
             Video Walkthroughs
+          </a>{" "}
+          |{" "}{" "}
+          <a href="twitter.com" target="_blank" rel="noreferrer">
+            Twitter
           </a>
         </p>
       </div>

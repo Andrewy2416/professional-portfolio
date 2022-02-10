@@ -23,7 +23,7 @@ function Resume() {
         <hr />
         <ul>
             <li>HTML, CSS, Javascript</li>
-            <li>Mongo, Express, Reactjs, Nodejs</li>
+            <li>MongoDB, Express, Reactjs, Nodejs</li>
             <li>SQL, Bulma</li>
             <li>Git</li>
             <li>Github Repo</li>
