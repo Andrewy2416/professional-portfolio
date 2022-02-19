@@ -37,7 +37,7 @@ const projects = [
     title: "E-Commerce Backend",
     languages: "js",
     image: "/img/exommerce.jpg",
-    packages: "noneExpress.js, Sequelize, MYSQL2, Dotenv",
+    packages: "Node.js, Express.js, Sequelize, MYSQL2, Dotenv",
     description: "This is a backend app that will connect to an e-commerce backend API that can be used to synchronize/modify a SQL Database. ",
     repo: "https://github.com/Andrewy2416/retaildatastorage",
     live: "https://www.youtube.com/watch?v=p76LOjwtLfw",
