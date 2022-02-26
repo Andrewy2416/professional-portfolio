@@ -5,7 +5,7 @@ function About() {
     <div>
       <p className="content is-size-1 has-text-weight-bold">Full Stack Web Developer</p>
       <hr />
-      <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profile.jpg'} alt="Andrew Yun"/>
+      <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profilepicture.jpg'} alt="Andrew Yun"/>
       <p className="content is-italic has-text-weight-bold is-underlined mt-4">
         Full Stack Web Developer / Fantasy Football Champion
       </p>
