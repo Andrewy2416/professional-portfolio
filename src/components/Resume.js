@@ -9,13 +9,13 @@ function Resume() {
 
         <a
           className="button is-primary"
-          href={process.env.PUBLIC_URL + "/andrewyun.pdf"}
+          href={process.env.PUBLIC_URL + "https://docs.google.com/document/d/1utunN5WvgDH3YuwROn6LzkvB49OKzIR5QeLCAZRHxYU/edit?usp=sharing"}
           target="_blank" rel="noreferrer"
         >
           <span className="icon">
             <i className="fas fa-download"></i>
           </span>
-          <span>Download My Resume</span>
+          <span>Link to Resume</span>
         </a>
       </div>
       <div className="column">
@@ -24,8 +24,8 @@ function Resume() {
         <ul>
             <li>HTML, CSS, Javascript</li>
             <li>MongoDB, Express, Reactjs, Nodejs</li>
-            <li>SQL, Bulma</li>
-            <li>Git</li>
+            <li>SQL, Mongo, Graphql, Bulma</li>
+            <li>Git, Wordpress</li>
             <li>Github Repo</li>
         </ul>
       </div>
